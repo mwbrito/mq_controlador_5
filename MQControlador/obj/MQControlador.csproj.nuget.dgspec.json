@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\MQControlador4.3\\MQControlador\\MQControlador.csproj": {}
+    "C:\\Dev\\mq_controlador_5\\MQControlador\\MQControlador.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\MQControlador4.3\\MQControlador\\MQControlador.csproj": {
+    "C:\\Dev\\mq_controlador_5\\MQControlador\\MQControlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\MQControlador4.3\\MQControlador\\MQControlador.csproj",
+        "projectUniqueName": "C:\\Dev\\mq_controlador_5\\MQControlador\\MQControlador.csproj",
         "projectName": "MQControlador",
-        "projectPath": "C:\\Dev\\MQControlador4.3\\MQControlador\\MQControlador.csproj",
+        "projectPath": "C:\\Dev\\mq_controlador_5\\MQControlador\\MQControlador.csproj",
         "packagesPath": "C:\\Users\\mwsbrito\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\MQControlador4.3\\MQControlador\\obj\\",
+        "outputPath": "C:\\Dev\\mq_controlador_5\\MQControlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,7 +30,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -49,7 +48,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.Extensions.Hosting": {

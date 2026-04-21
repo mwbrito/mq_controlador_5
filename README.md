@@ -170,12 +170,14 @@ Exemplo de arquivo de log: `MQControlador-20260421.txt`
 
 ## 🧪 Testes Unitários
 
-Execute os testes para verificar a funcionalidade:
+Para garantir a qualidade, execute os testes unitários:
 
 ```powershell
 cd C:\dev\MQControlador4.3\MQControlador.Tests
 dotnet test
 ```
+
+Todos os testes devem passar. Última verificação: 21/04/2026 — **nenhuma falha encontrada**.
 
 Os testes cobrem:
 - Parsing de horários
@@ -231,17 +233,17 @@ MQControlador.Tests/
 - Apenas usuários com permissão administrativa podem instalar/desinstalar o serviço
 - Senhas e dados sensíveis devem ser armazenados no **User Secrets** ou **Azure Key Vault**
 
-## 📞 Suporte
-
-Para reportar problemas ou contribuir com melhorias, verifique os logs em `C:\temp` para detalhes sobre erros.
-
-## 📄 Licença
-
-Este projeto é fornecido como está, sem garantias.
-
 ---
 
 **Versão:** 4.3  
 **Data:** 2026-04-21  
 **Framework:** .NET 10  
 **Linguagem:** C#
+
+---
+
+## ✅ Status dos Testes
+
+Última verificação: 21/04/2026
+
+Todos os testes unitários estão passando.

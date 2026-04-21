@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBgeOj03GDA=",
+  "dgSpecHash": "sA3MDnfU2cY=",
   "success": true,
-  "projectFilePath": "C:\\Dev\\MQControlador4.3\\MQControlador\\MQControlador.csproj",
+  "projectFilePath": "C:\\Dev\\mq_controlador_5\\MQControlador\\MQControlador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mwsbrito\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.6\\microsoft.extensions.configuration.10.0.6.nupkg.sha512",
     "C:\\Users\\mwsbrito\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.6\\microsoft.extensions.configuration.abstractions.10.0.6.nupkg.sha512",
